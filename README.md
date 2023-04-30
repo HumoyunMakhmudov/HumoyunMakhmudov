@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## **Github Stats**
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kngroupweb&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/HumoyunMakhmudov/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HumoyunMakhmudov&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/HumoyunMakhmudov/github-readme-stats)
 
 ## **Top Langs**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumoyunMakhmudov&layout=compact&theme=highcontrast)](https://github.com/kngroupweb/github-readme-stats)
